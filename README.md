@@ -1,5 +1,7 @@
-# ProductResearch :🥇
+# Product Research:🥇
 An accumulation of research of AA related.
+It will split into tasks to hang out and wait for your participation.
+See this project board with tags: https://github.com/orgs/AAStarCommunity/projects/6/views/1
 
 **AirAccount** :⭐
 
